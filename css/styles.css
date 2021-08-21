@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  color: darkred;
+}
+.logo {
+  display: inline;
+}
+.logo a {
+  text-decoration: none;
+  color: blue;
+}
+nav {
+  margin: 10px 0;
+}
+.nav-left {
+  display: inline;
+  float: right;
+}
+.nav-left a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: blue;
+}
+footer {
+  background-color: yellow;
+  padding: 50px 0;
+}
+.foot-right {
+  float: right;
+}
+.footer-top {
+  text-align: center;
+}
+main {
+  padding: 50px 0;
+  background-color: gray;
+  text-align: center;
+}
+.top {
+  padding: 50px 0;
+  background-color: blue;
+  text-align: center;
+}
+form {
+  margin-left: 100px;
+}
+iframe {
+  margin-right: 100px;
+}
+button {
+  margin: 10px 0 0 35px;
+}
